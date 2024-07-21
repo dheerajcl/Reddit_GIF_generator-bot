@@ -17,7 +17,7 @@ GIPHY_API_URL = 'https://api.giphy.com/v1/gifs/search'
 SUBREDDIT = 'test'  # Change to the subreddit you want to monitor
 
 # Define the trigger word
-TRIGGER_WORD = '!meme'
+TRIGGER_WORD = 'gif'
 
 def fetch_meme(keyword):
     """Fetch a meme from Giphy based on the keyword."""
