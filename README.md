@@ -24,7 +24,7 @@ This Reddit bot automatically replies to comments in a specified subreddit with 
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/dheerajcl/Reddit_meme_generator-bot.git
    cd <repository-directory>
 
 2. **Install the required packages**
